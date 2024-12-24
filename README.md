@@ -42,3 +42,5 @@ The CAPM Financial Analysis application simplifies the investment analysis proce
 3. Data Sources:
     - Stock price data is fetched using the Yahoo Finance API (via the yfinance library).
     - S&P 500 data is obtained from the FRED database (via the pandas_datareader library).
+
+_Please give a 🌟 if you found this repository helpful in any manner._
